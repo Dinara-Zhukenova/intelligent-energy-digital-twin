@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this research project, please cite it as described below."
+title: "Digital Twin Information System for Intelligent Energy Supply"
+type: software
+authors:
+  - family-names: "Zhukenova"
+    given-names: "Dinara"
+    orcid: "https://orcid.org/0000-0002-9134-6001"
+    affiliation: "L.N. Gumilyov Eurasian National University"
+version: 1.0.0
+date-released: 2026-09-25
+license: MIT
+repository-code: "https://github.com/Dinara-Zhukenova/intelligent-energy-digital-twin"
