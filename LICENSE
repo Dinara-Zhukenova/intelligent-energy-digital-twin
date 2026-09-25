@@ -1,6 +1,12 @@
-MIT License
+LICENSING INFORMATION
 
 Copyright (c) 2026 Dinara Zhukenova
+
+1. SOFTWARE CODE
+
+Unless otherwise stated, all software source code in this repository is licensed under the MIT License.
+
+MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +25,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+2. RESEARCH DATA AND DOCUMENTATION
+
+Unless otherwise stated, the research data, documentation, text, figures, and
+other non-software materials in this repository are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You may share and adapt these materials for any purpose, including commercial
+purposes, provided that appropriate credit is given to the author, a link to
+the license is provided, and any changes are indicated.
+
+Full license terms:
+https://creativecommons.org/licenses/by/4.0/
