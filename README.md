@@ -49,3 +49,6 @@ Citation information is available in the `CITATION.cff` file.
 ## Contact
 
 Email: zhukenovadinara13@gmail.com
+
+## DOI 
+This research project is available on Zenodo: https://doi.org/10.5281/zenodo.8475
